@@ -34,7 +34,7 @@ CETV1,CETV 1 中国教育,CETV-01,CETV01,CETV-1 综合教育,CETV-1综合教育,
 CETV2,CETV 2 中国教育,CETV-02,CETV-2,CETV2,cetv2,CETV-2 空中课堂,CETV-2教育教学,CETV2 (576p),中国教育2台,CETV2中国教育,中国教育2,中国教育2HD
 CETV3,CETV-中国教育3,CETV3中国教育,CETV3 中国教育,中国教育3,中国教育3HD
 CETV4,CETV 4 中国教育,CETV-04,CETV04,CETV-4,CETV4,cetv4,CETV-4 职业教育,CETV-4职业教育,CETV-中国教育4,中国教育4台,CETV4中国教育,CETV4 中国教育,中国教育4,中国教育4HD
-CETV早教,CETV早期教育,早期教育
+CETV早期教育,早期教育,CETV早教,CETV-早期教育,
 
 第一剧场,CCTV第一剧场,CCTV-第一剧场,CCTV第一剧场HD
 怀旧剧场,CCTV怀旧剧场,CCTV-怀旧剧场,CCTV怀旧剧场HD,CCTV怀旧剧圿,CCTV-怀旧剧圿
@@ -53,7 +53,7 @@ CETV早教,CETV早期教育,早期教育
 
 老故事,中央新影-老故事,CCTV-老故事,CCTV老故事
 中学生,CCTV中学甿,CCTV中学生,CCTV-中学生,中央新影-中学甿,中央新影-中学生
-书画频道
+书画频道,书画
 中国天气
 
 CGTN英语,CGTN-外语纪录,CGTN外语纪录
