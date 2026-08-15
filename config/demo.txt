@@ -7,7 +7,6 @@ CCTV4美洲
 CCTV4欧洲
 CCTV5
 CCTV5+
-
 CCTV6
 CCTV7
 CCTV8
@@ -26,7 +25,7 @@ CETV1
 CETV2
 CETV3
 CETV4
-CETV早教
+CETV早期教育
 
 第一剧场
 怀旧剧场
