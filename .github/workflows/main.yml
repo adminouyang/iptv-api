@@ -11,7 +11,13 @@ name: 'Update schedule'
 permissions:
   contents: write   # 授予内容读写权限
 on:
+  schedule:
+    - cron: '0 22,10 * * *'
   workflow_dispatch:
+    branches:
+      - master
+      - dev
+      - gd
 
 jobs:
   push:
