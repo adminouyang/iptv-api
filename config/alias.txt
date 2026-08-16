@@ -6,28 +6,28 @@
 # Aliases support regex matching. Aliases starting with re: are recognized as regular expressions, e\.g\. CCTV-1,re:(?i)^\s*CCTV[-\s_]*0?1(?![0-9Kk+])[\s\S]*$
 
 📺央视频道,#genre#
-CCTV1,CCTV-1 综合,CCTV1综合高清,CCTV-1综合,CCTV1 综合,CCTV-01,CCTV1综合,cctv1综合,CCTV-1,cctv1,CCTV-1(1080p),CCTV-1 (720p),CCTV-1HD,cctv1hd
-CCTV2,CCTV-2 财经,CCTV2财经高清,CCTV-2财经,CCTV-02,CCTV2财经,cctv2财经,CCTV-2,cctv2,CCTV-2 (720p),CCTV-2HD,cctv2hd
-CCTV3,CCTV-3 综艺,CCTV3综艺高清,CCTV-3综艺,CCTV-03,CCTV3综艺,cctv3综艺,CCTV-3,cctv3,CCTV-3 (720p),CCTV-3HD,cctv3hd
-CCTV4,CCTV-4 中文国际,CCTV4中文国际高清,CCTV-4中文国际,CCTV-4 HD,CCTV4中文国际,cctv4中文国际,CCTV-04,CCTV4国际,CCTV-4,cctv4,CCTV-4HD,cctv4hd,CCTV-4 Asia (720p)
+CCTV1,CCTV-1 综合,CCTV1综合高清,CCTV-1综合,CCTV1 综合,CCTV-01,CCTV1综合,cctv1综合,CCTV-1,cctv1,CCTV-1(1080p),CCTV-1 (720p),CCTV-1HD,cctv1hd,CCTV1港澳版,cctv1港澳版,CCTV1@
+CCTV2,CCTV-2 财经,CCTV2财经高清,CCTV-2财经,CCTV-02,CCTV2财经,cctv2财经,CCTV-2,cctv2,CCTV-2 (720p),CCTV-2HD,cctv2hd,CCTV2@
+CCTV3,CCTV-3 综艺,CCTV3综艺高清,CCTV-3综艺,CCTV-03,CCTV3综艺,cctv3综艺,CCTV-3,cctv3,CCTV-3 (720p),CCTV-3HD,cctv3hd,CCTV3@
+CCTV4,CCTV-4 中文国际,CCTV4中文国际高清,CCTV-4中文国际,CCTV-4 HD,CCTV4中文国际,cctv4中文国际,CCTV-04,CCTV4国际,CCTV-4,cctv4,CCTV-4HD,cctv4hd,CCTV-4 Asia (720p),CCTV4@
 CCTV4美洲,CCTV-4美洲,cctv4美洲,cctv美洲,
 CCTV4欧洲,cctv4欧洲,CCTV-4欧洲,cctv欧洲,
-CCTV5,CCTV-5 HD,CCTV-5 体育,CCTV5体育高清,CCTV-5体育,CCTV5 体育,CCTV-05,CCTV5体育,CCTV5测试,cctv5体育,CCTV-5,cctv5,CCTV-5 體育,CCTV-5HD,cctv5hd
-CCTV5+,CCTV-5+ 体育赛事,CCTV5+体育赛事高清,CCTV-5+体育赛事,CCTV5+ 体育赛事,CCTV-5+ HD,CCTV5+体育赛事,cctv5+体育赛事,CCTV-5+HD,,CCTV-5+ 體育,CCTV-5⁺体育赛事,CCTV赛事
+CCTV5,CCTV-5 HD,CCTV-5 体育,CCTV5体育高清,CCTV-5体育,CCTV5 体育,CCTV-05,CCTV5体育,CCTV5测试,cctv5体育,CCTV-5,cctv5,CCTV-5 體育,CCTV-5HD,cctv5hd,CCTV5@
+CCTV5+,CCTV-5+ 体育赛事,CCTV5+体育赛事高清,CCTV-5+体育赛事,CCTV5+ 体育赛事,CCTV-5+ HD,CCTV5+体育赛事,cctv5+体育赛事,CCTV-5+HD,,CCTV-5+ 體育,CCTV-5⁺体育赛事,CCTV赛事,CCTV5+@
 
-CCTV6,CCTV-6 (1080p),CCTV-6 HD,CCTV-6 电影,CCTV6电影高清,CCTV-6电影,CCTV6 电影,CCTV-06,CCTV6电影,cctv6电影,CCTV-6,cctv6,CCTV-6 [Geo-blocked],CCTV-6HD,cctv6hd
-CCTV7,CCTV-7 国防军事,CCTV7国防军事高清,CCTV-7国防军事,CCTV7 国防军事,CCTV7国防军事,cctv7国防军事,CCTV-07,CCTV-7,cctv7,CCTV-7HD,cctv7hd,CCTV-7 (720p)
-CCTV8,CCTV-8 电视剧,CCTV8电视剧高清,CCTV-8电视剧,CCTV8 电视剧,CCTV8电视剧,cctv8电视剧,CCTV-08,CCTV-8,cctv8,CCTV-8HD,cctv8hd,CCTV-8 (720p)
-CCTV9,CCTV-9 纪录,CCTV9纪录高清,CCTV-9纪录,CCTV9 纪录,CCTV-09,CCTV9测试,CCTV9纪录,cctv9纪录,CCTV-9,cctv9,CCTV-9HD,cctv9hd,CCTV-9 (576i)
-CCTV10,CCTV-10 科教,CCTV10科教高清,CCTV-10科教,CCTV10 科教,CCTV10科教,cctv10科教,CCTV-10,cctv10,CCTV-10 (576i),CCTV-10 (720p),CCTV-10HD,cctv10hd
-CCTV11,CCTV-11 戏曲,CCTV11戏曲高清,CCTV-11戏曲,CCTV11戏曲,cctv11戏曲,CCTV-11,cctv11,CCTV-11 (720p),CCTV-11HD,cctv11hd
-CCTV12,CCTV-12 社会与法,CCTV12社会与法高清,CCTV-12社会与法,CCTV12社会与法,cctv12社会与法,CCTV-12,cctv12,CCTV-12 (720p),CCTV-12HD,cctv12hd
-CCTV13,CCTV-13 HD,CCTV-13 新闻,CCTV13新闻高清,CCTV-13新闻,CCTV13 新闻,CCTV13新闻,cctv13新闻,CCTV-13,cctv13,CCTV-13 (1080p),CCTV-13 (720p),CCTV-13HD,cctv13hd
-CCTV14,CCTV-14 少儿,CCTV14少儿高清,CCTV-14少儿,CCTV14 少儿,CCTV14少儿,cctv14少儿,CCTV-14,cctv14,CCTV-14 (1080p),CCTV-14HD,cctv14hd
-CCTV15,CCTV-15 音乐,CCTV15音乐高清,CCTV-15音乐,CCTV15 音乐,CCTV15音乐,cctv15音乐,CCTV-15,cctv15,CCTV-15 (1080p),CCTV-15 (720p),CCTV-15HD,cctv15hd
+CCTV6,CCTV-6 (1080p),CCTV-6 HD,CCTV-6 电影,CCTV6电影高清,CCTV-6电影,CCTV6 电影,CCTV-06,CCTV6电影,cctv6电影,CCTV-6,cctv6,CCTV-6 [Geo-blocked],CCTV-6HD,cctv6hd,CCTV6@
+CCTV7,CCTV-7 国防军事,CCTV7国防军事高清,CCTV-7国防军事,CCTV7 国防军事,CCTV7国防军事,cctv7国防军事,CCTV-07,CCTV-7,cctv7,CCTV-7HD,cctv7hd,CCTV-7 (720p),CCTV7@
+CCTV8,CCTV-8 电视剧,CCTV8电视剧高清,CCTV-8电视剧,CCTV8 电视剧,CCTV8电视剧,cctv8电视剧,CCTV-08,CCTV-8,cctv8,CCTV-8HD,cctv8hd,CCTV-8 (720p),CCTV8@
+CCTV9,CCTV-9 纪录,CCTV9纪录高清,CCTV-9纪录,CCTV9 纪录,CCTV-09,CCTV9测试,CCTV9纪录,cctv9纪录,CCTV-9,cctv9,CCTV-9HD,cctv9hd,CCTV-9 (576i),CCTV9@
+CCTV10,CCTV-10 科教,CCTV10科教高清,CCTV-10科教,CCTV10 科教,CCTV10科教,cctv10科教,CCTV-10,cctv10,CCTV-10 (576i),CCTV-10 (720p),CCTV-10HD,cctv10hd,CCTV10@
+CCTV11,CCTV-11 戏曲,CCTV11戏曲高清,CCTV-11戏曲,CCTV11戏曲,cctv11戏曲,CCTV-11,cctv11,CCTV-11 (720p),CCTV-11HD,cctv11hd,CCTV11@
+CCTV12,CCTV-12 社会与法,CCTV12社会与法高清,CCTV-12社会与法,CCTV12社会与法,cctv12社会与法,CCTV-12,cctv12,CCTV-12 (720p),CCTV-12HD,cctv12hd,CCTV12@
+CCTV13,CCTV-13 HD,CCTV-13 新闻,CCTV13新闻高清,CCTV-13新闻,CCTV13 新闻,CCTV13新闻,cctv13新闻,CCTV-13,cctv13,CCTV-13 (1080p),CCTV-13 (720p),CCTV-13HD,cctv13hd,CCTV13@
+CCTV14,CCTV-14 少儿,CCTV14少儿高清,CCTV-14少儿,CCTV14 少儿,CCTV14少儿,cctv14少儿,CCTV-14,cctv14,CCTV-14 (1080p),CCTV-14HD,cctv14hd,CCTV14@
+CCTV15,CCTV-15 音乐,CCTV15音乐高清,CCTV-15音乐,CCTV15 音乐,CCTV15音乐,cctv15音乐,CCTV-15,cctv15,CCTV-15 (1080p),CCTV-15 (720p),CCTV-15HD,cctv15hd,CCTV15@
 CCTV16,CCTV-16奥林匹克4K,CCTV16奥林匹克高清,CCTV-16奥林匹克,CCTV16 奥林匹克,CCTV16奥林匹克,CCTV-16 (1080p),CCTV-16HD,cctv16hd
-,CCTV-16奥运,CCTV16 4K,CCTV16-4K,CCTV164K,CCTV-16,cctv16
-CCTV17,CCTV-17农业农村,CCTV17农业农村,cctv17农业农村,CCTV-17,cctv17,CCTV-17 (1080p),CCTV-17HD,cctv17hd
+,CCTV-16奥运,CCTV16 4K,CCTV16-4K,CCTV164K,CCTV-16,cctv16,CCTV16@
+CCTV17,CCTV-17农业农村,CCTV17农业农村,cctv17农业农村,CCTV-17,cctv17,CCTV-17 (1080p),CCTV-17HD,cctv17hd,CCTV17@
 CCTV4K,CCTV-4K 高清,CCTV-4K超高清,CCTV-4K (1080p),CCTV-4K超,CCTV4K超高清
 CCTV8K,,CCTV-8K,CCTV-8K (1080p),CCTV-8K超高清,CCTV-8K超
 CETV1,CETV 1 中国教育,CETV-01,CETV01,CETV-1 综合教育,CETV-1综合教育,CETV-1,CETV1,cetv1,CETV1 (576p),中国教育1台,CETV1中国教育,中国教育1,中国教育1HD
@@ -67,7 +67,7 @@ CHC影迷电影,CHC高清电影,CHC电影,CHC高清电影
 CHC动作电影,CHC-动作电影,chc动作电影,CHC动作影院,CHC动作电影/265
 CHC家庭影院,chc家庭影院,CHC家庭影院/265
 1905电影网,1905电影网（国内）
-黑莓电影
+黑莓电影,NEWTV黑莓电影,NewTV黑莓电影
 动作电影
 超级电影
 惊悚悬疑
@@ -96,7 +96,7 @@ IPTV经典电影
 南国都市4K
 
 卫视频道,#genre#
-重温经典
+重温经典,重温经典1,重温经典2
 湖南卫视
 浙江卫视
 东方卫视,上海卫视
@@ -141,6 +141,7 @@ IPTV经典电影
 三沙卫视
 延边卫视
 旅游卫视
+海峡卫视,海峡卫视1,海峡卫视2
 
 📡特色频道,#genre#
 4K乐享超清
@@ -561,7 +562,7 @@ IPTV武术
 北海新闻综合
 北海经济科教
 南宁公共
-南宁影娱乐
+南宁影视娱乐
 南宁新闻综合
 南宁都市生活
 博白综合
@@ -1803,8 +1804,8 @@ i成都
 凤凰资讯,凤凰卫视资讯台,凤凰资讯台,凤凰资讯高清,鳳凰衛視資訊台
 凤凰香港,凤凰卫视香港台,凤凰香港台,凤凰香港高清
 凤凰电影
-RTHK 31,RHK 31,RTHK31,港台电视31
-RTHK 32,RHK 32,RTHK32,港台电视32
+RTHK 31,RHK 31,RTHK31,港台电视31,港台電視31,港台電視31 (官方)
+RTHK 32,RHK 32,RTHK32,港台电视32,港台電視32,港台電視32 (官方)
 RTHK 33,香港33台,RTHK33
 RTHK 34,香港34台,RTHK34
 RTHK 35,香港35台,RTHK35
@@ -1815,6 +1816,7 @@ ViuTVsix
 澳门资讯,澳門資訊
 澳门综艺,澳門綜藝,澳视综艺
 澳门莲花
+莲花卫视
 澳视澳门,澳視澳門
 澳亚卫视
 澳视卫星,澳門衛星
@@ -1824,13 +1826,13 @@ ViuTVsix
 
 美亚C+,香港C+
 美亚电影台,美亚电影,美亞電影台
-TVB Plus,TVBPlus
+TVB Plus,TVBPlus,無線 TVB Plus
 TVB1,翡翠一台(北美),翡翠一台(TVB1)
 TVB J1,翡翠综合台,TVBJ1
 TVB J2
 TVB DRMAM,翡翠剧集台,TVB翡翠劇集，
-翡翠台,翡翠台(字幕),华丽翡翠台(新加坡)
-翡翠台4K
+翡翠台,翡翠台(字幕),华丽翡翠台(新加坡),TVB翡翠台,TVB翡翠台 1080P
+翡翠台4K,翡翠台4K(字幕)
 黄金翡翠台,黃金翡翠台
 明珠台,明珠台(字幕),TVB明珠
 HOY 77,HOY TV,HOY77
@@ -1838,44 +1840,49 @@ HOY 76,HOY国际财经台,
 HOY 78,HOY78,HOY资讯台
 八度空间,八度空間,八度空间(新加坡)
 龙华电影,龍華電影,龍華電影台
-龙华经典,龍華經典,龍華經典台
-龙华日韩,龍華日韓台
+龙华经典,龍華經典,龍華經典台,龙华经典台
+龙华日韩,龍華日韓台,龙华日韩台,龍華日韓
 龙华戏剧,龍華戲劇,龍華戲劇台,龙华戏剧 Lunghua Drama
 龙华洋片,龍華洋片,龍華洋片台,龙华洋片 Lunghua Western
-龙华卡通,龍華卡通台
-龙华偶像,龍華偶像台
+龙华卡通,龍華卡通台,龍華卡通
+龙华偶像,龍華偶像台,龍華偶像
 金光布袋戏,金光布袋戲
 华丽翡翠台,
+有線新聞
+有線新聞台
+有線財經信息台
 TVB亚洲武侠,亚洲武侠电视台,亚洲武侠
 TVB娱乐新闻台,TVB娛樂新聞,娛樂新聞台
-TVB无线新闻台,無線新聞台,无线新闻台,無綫新聞台,
+TVB无线新闻台,無線新聞台,无线新闻台,無綫新聞台,TVB無線新聞,無線新聞,无线新闻
 TVB星河,星河台
 TVBS欢乐台,TVBS 歡樂台,TVBS歡樂台
 TVBS新闻台,TVBS新闻,TVBS新聞,TVBS News 新聞台
 TVBS精采台,TVBS精采
-千禧經典,千禧经典台,TVB千禧经典,千禧經典台
-天映频道,天映新加坡,天映频道(新加坡)
-天映經典,天映經典頻道,天映经典
-爱奇艺,愛奇藝
+千禧經典,千禧经典台,TVB千禧经典,千禧經典台,TVB千禧經典台
+天映频道,天映新加坡,天映频道(新加坡),天映頻道
+天映經典,天映經典頻道,天映经典,天映经典频道,天映经典台
+爱奇艺,愛奇藝,IQIYI
 影迷纪实台,緯來電影,影迷數位紀實台
 影迷數位電影台
-东森电影,東森電影
+东森电影,東森電影，東森電影台
 東森新聞,東森新聞 ETTV News,東森新聞台,东森新闻
-東森財經新聞台,東森財經新聞 ETTV Business
-东森戏剧,
-东森洋片
+東森財經新聞台,東森財經新聞 ETTV Business,東森財經新聞
+东森戏剧,東森戲劇台
+东森洋片,東森洋片台
 东森超视
+東森幼幼台,東森幼幼
+东森综合
 寰宇新聞台,寰宇新闻,寰宇新聞台灣台
 MOMO親子台
 台视,台視
-台视新闻,台視新聞台 TTV News
+台视新闻,台視新聞台 TTV News,台視新聞
 台视综合,台视综合台
 民视,民視
-民視影劇,民视影剧,民视影剧台,民視影劇台
+民視影劇,民视影剧,民视影剧台,民視影劇台,民视影劇台C
 民视综艺,民視綜藝,民視綜藝台
-民視台灣台,民视台湾台
+民視台灣台,民视台湾台,民视台湾
 民視新聞,民視新聞台,民视新闻台,民視新聞台 FTV News,民视新闻,
-民視旅遊台
+民視旅遊台,民视旅游
 民视南闽
 民視第一台,民视第一台,民视第一
 台视新聞,台视新闻
@@ -1885,34 +1892,40 @@ MOMO親子台
 华视新闻,華視新聞
 采昌,采昌影剧台,采昌影劇台
 靖天映畫,靖天映画
-靖天戏剧台,靖天戲劇台
-靖天電影台,靖天电影台,靖天電影
-靖洋戲劇台,靖洋戏剧台,靖洋戲劇
+靖天戏剧台,靖天戲劇台,靖天戲劇台C
+靖天電影台,靖天电影台,靖天電影,靖天电影
+靖洋戲劇台,靖洋戏剧台,靖洋戲劇,靖洋戲劇台C
 靖天卡通台
 靖天日本台
 靖天綜合台
 靖天育樂台
 靖天資訊台
 靖洋卡通Nice Bingo
-影迷数位电影台
-amc电影台,amc電影台
+影迷数位电影台,影迷数位电影台C
+amc电影台,amc電影台,AMC电影
 经典电影台,經典電影台
 中國電影頻道,中國電影
-經典卡通台
-纬来电影台,纬来电影
-纬来戏剧台,
+電影原聲台CMusic
+
+纬来电影台,纬来电影,緯來電影台
+纬来戏剧台,緯來戲劇台
 纬来体育台,纬来体育
 纬来日本台
-纬来精彩
+纬来精彩,纬来精采
 纬来综合台
 龙祥时代,
 LIVE三立
 三立綜合台
 三立新闻,三立新聞iNEWS
 中天新闻,中天新聞台
+中天综合
+中天娱乐
 中視
 中视新闻,中視新聞
+中视菁采
+中视经典
 中天亞洲台
+亚洲新闻
 now新闻台,NOW新闻
 now星影台,NOW星影台,Now爆谷星影台
 now爆谷台,NOW爆谷台,Now 爆谷台
@@ -1920,6 +1933,28 @@ TVB黃金華劇,黃金華劇台
 華藝中文台,華藝中文
 八大精彩台
 八大綜藝台
+八大綜合台
+鏡電視新聞台
+镜电视新闻
+HBO
+CH5
+CH8
+CHU
+CMusic
+Animax
+Astro AEC
+Astro AOD
+Astro iQIYI
+Astro 欢喜台
+AXN
+CinemaWorld
+ROCK Action
+Love Nature
+NewsWorld
+NOW 70s
+NOW 80s
+Now财经台
+Now新聞台
 愛爾達體育1台
 愛爾達體育2台
 愛爾達體育3台
@@ -1978,24 +2013,29 @@ CN卡通
 经典动漫
 蜡笔小新
 漫画解说
+梦工厂动画,DreamWorks夢工廠動畫,DreamWorks梦工厂动画
+精选动漫台,精選動漫台
+經典卡通台
 
 #🎮游戏频道,#genre#
 #🎵音乐频道,#genre#
 🏛经典剧场,#genre#
 笑傲江湖
-天龙八部
+天龙八部,天龙八部D
 鹿鼎记
 仙剑奇侠传
 西游记
 三国演义
 水浒传
-新白娘子传奇
+新白娘子传奇,新百娘子传奇D
 天龙八部
 济公游记
-封神榜
+封神榜,封神榜D
 闯关东
 上海滩
-射雕英雄传
+射雕英雄传,射雕英雄传D
+神雕侠侣,神雕侠侣D
+情满四合院,情满四合院D
 
 其它,#genre#
 求索动物
