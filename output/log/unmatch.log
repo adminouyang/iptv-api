@@ -1,22 +1,3 @@
-2026-08-22 15:07:47,http://kakaxi.indevs.in/LOGO/Disclaimer.mp4
-淘4K,http://115.171.216.40:4000/rtp/225.1.8.211:8002$北京电信11
-淘4K,http://123.118.58.227:8686/rtp/239.3.1.249:8001$北京联通21
-淘4K,http://115.171.216.32:4000/rtp/225.1.8.211:8002$北京电信21
-淘4K,http://221.220.135.225:8012/rtp/239.3.1.249:8001$北京联通31
-纪实科教,http://60.4.28.19:8077/rtp/239.253.93.190:6358$河北联通11
-纪实科教,http://115.171.216.40:4000/udp/225.1.8.105:8002$北京电信11
-纪实科教,http://123.118.58.227:8686/rtp/239.3.1.115:8000$北京联通21
-纪实科教,http://115.171.216.32:4000/udp/225.1.8.105:8002$北京电信21
-纪实科教,http://221.220.135.225:8012/rtp/239.3.1.115:8000$北京联通31
-睛彩青少,http://183.236.43.98:4013/udp/239.77.1.22:5146$广东电信11
-睛彩青少,http://123.118.58.227:8686/rtp/239.3.1.127:8001$北京联通21
-睛彩青少,http://221.220.135.225:8012/rtp/239.3.1.127:8001$北京联通31
-游戏风云,http://39.77.22.26:4002/rtp/239.253.254.95:8000$山东联通11
-游戏风云,http://171.119.207.173:6000/rtp/226.0.2.78:8536$山西联通11
-游戏风云,http://1.192.246.152:8188/rtp/239.16.20.112:11120$河南电信11
-游戏风云,http://124.112.189.237:4022/rtp/238.1.78.81:6520$安徽电信11
-华数武侠剧场,http://123.118.58.227:8686/rtp/239.3.1.90:4120$北京联通21
-华数武侠剧场,http://221.220.135.225:8012/rtp/239.3.1.90:4120$北京联通31
 CCTV-16,http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=%2A%2A%2A
 CGNT 新闻频道,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 CGTN,https://0472.org/hls/cgtn.m3u8
@@ -28,14 +9,15 @@ tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://gitee.com/suxuan
 凤凰卫视,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰卫视台,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 TVBS-Asia,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
-TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 TVB明珠台,http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn
 三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
 八大戏剧台,http://61.221.215.25:8800/hls/39/index.m3u8
+纬来育乐,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34849
 翡翠台北美版,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j1
 茶友频道,http://drive.mxmy.net:8888/udp/239.3.1.165:8001
 新闻咨询,http://112.46.105.20:8009/hls/18/index.m3u8
-靖天资讯,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=%2A%2A%2A&id=4gtv-4gtv065
+靖天资讯,http://4gtv.cnlive.club/channel/3fae463b/index.m3u8?q=1782639885837
 与凤行,https://live.ottiptv.cc/huya/26355866
 乌龙闯情关,https://live.ottiptv.cc/huya/26355767
 亮剑,https://live.ottiptv.cc/huya/30080238
@@ -87,6 +69,7 @@ TVB明珠台,http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn
 神探狄仁杰第二部,https://goodiptv.club/douyu/12183882
 芈月传,https://live.ottiptv.cc/huya/11352975
 西游记后传,https://live.ottiptv.cc/yy/1353392400
+西游记续集,http://www.goodiptv.club/douyu/3113309
 贝爷求生,http://www.goodiptv.club/douyu/9661369
 辽宁影视,http://dassby.qqff.top:99/live/辽宁影视剧/index.m3u8
 野蛮亲家,https://live.metshop.top/huya/23863796
@@ -101,6 +84,7 @@ TVB明珠台,http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn
 鬼吹灯之怒晴湘西,https://live.ottiptv.cc/huya/11602075
 鬼吹灯之精绝古城,https://live.ottiptv.cc/huya/11352871
 鬼吹灯之龙岭迷窟,https://live.ottiptv.cc/huya/29465863
+龙祥电影,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34825
 龙门飞甲,http://jsmov2.a.yximgs.com/bs3/video-hls/5203346449046555193_hlsb.m3u8
 名侦探柯南,https://live.ottiptv.cc/huya/30080236
 哆啦A梦,https://live.ottiptv.cc/huya/11601963
@@ -138,11 +122,9 @@ RT Documentary（英语纪录）,https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500
 飞碟之谜02,https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/d2454bbb542d4613a9db478dab2addfd/2000.m3u8
 龙井,http://stream8.jlntv.cn/ljtv/sd/live.m3u8?zjild=
 音乐现场,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
-现代教育,http://120.198.86.186:9901/tsfile/live/1112_1.m3u8?key=%2A%2A%2A&playlive=1&authid=%2A%2A%2A
 ABC News Live,https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991626
 Arirang,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 Beautiful Life TV,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
-Bloomberg Asia,https://epg.pw/stream/d2edf469b9079064a283f4b0811cbf6f2597ebbb3d08dcf77036a4b5a791b7cf.m3u8
 CBC News,https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991276
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 CTi News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
@@ -184,13 +166,43 @@ WionNews,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 广东大湾区,http://222.128.55.152:9080/live/dwq.m3u8
 春晚1991,https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjI2MTVfNDAzMDAxOTlfNjYyNzYwNjUxNjVfMF8z_b_B8feb7b85888678d71bf37a259c6850f6.mp4
 生态环境,http://120.76.248.139/live/bfgd/4200000149.m3u8
-经济科教,http://120.198.95.220:9901/tsfile/live/1011_1.m3u8?key=%2A%2A%2A&playlive=1&down=1
 耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
 苏州4K,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
+萧山生活频道,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8?zzhed=
 谈判专家,https://live.ottiptv.cc/yy/1382735560
 车迷频道,http://120.76.248.139/live/bfgd/4200000146.m3u8
 辽宁青少,http://dassby.qqff.top:99/live/辽宁教育青少/index.m3u8
 都市青春,http://112.46.105.20:8009/hls/19/index.m3u8
+2026-08-26 18:58:55,http://kakaxi.indevs.in/LOGO/Disclaimer.mp4
+淘4K,http://123.118.58.227:8686/rtp/239.3.1.249:8001$北京联通11
+淘4K,http://115.171.216.32:4000/rtp/225.1.8.211:8002$北京电信11
+淘4K,http://221.220.128.203:8012/rtp/239.3.1.249:8001$北京联通21
+淘4K,http://115.171.216.40:4000/rtp/225.1.8.211:8002$北京电信21
+淘4K,http://114.254.35.208:8888/rtp/239.3.1.249:8001$北京联通31
+纪实科教,http://123.118.58.227:8686/rtp/239.3.1.115:8000$北京联通11
+纪实科教,http://218.86.186.115:8188/rtp/238.255.2.107:5999$贵州电信11
+纪实科教,http://60.4.28.19:8077/rtp/239.253.93.190:6358$河北联通11
+纪实科教,http://116.2.168.151:4010/rtp/232.0.0.162:1234$辽宁联通11
+纪实科教,http://115.171.216.32:4000/udp/225.1.8.105:8002$北京电信11
+纪实科教,http://221.220.128.203:8012/rtp/239.3.1.115:8000$北京联通21
+纪实科教,http://121.29.215.10:2083/rtp/239.253.93.190:6358$河北联通21
+纪实科教,http://115.171.216.40:4000/udp/225.1.8.105:8002$北京电信21
+纪实科教,http://114.254.35.208:8888/rtp/239.3.1.115:8000$北京联通31
+睛彩青少,http://123.118.58.227:8686/rtp/239.3.1.127:8001$北京联通11
+睛彩青少,http://221.220.128.203:8012/rtp/239.3.1.127:8001$北京联通21
+睛彩青少,http://114.254.35.208:8888/rtp/239.3.1.127:8001$北京联通31
+汽摩,http://218.86.186.115:8188/rtp/238.255.2.148:5999$贵州电信11
+游戏风云,http://116.2.168.151:4010/rtp/232.0.0.127:1234$辽宁联通11
+游戏风云,http://124.112.189.237:4022/rtp/238.1.78.81:6520$安徽电信11
+华数武侠剧场,http://123.118.58.227:8686/rtp/239.3.1.90:4120$北京联通11
+华数武侠剧场,http://221.220.128.203:8012/rtp/239.3.1.90:4120$北京联通21
+华数武侠剧场,http://114.254.35.208:8888/rtp/239.3.1.90:4120$北京联通31
+Astro QJ,https://cdn.qd.je/163189/qj
+Astro欢喜台,https://cdn.qd.je/163189/hxt
+黄金华剧台(WebVTT字幕),https://cdn.qd.je/163189/hjhjt
+My Cinema Europe,https://cdn.qd.je/163189/mce
+咪咕4K(限移动网络),http://r.jdshipin.com/ln4xk
+咪咕4K-2(限移动网络),http://r.jdshipin.com/Lqdwf
 http://141.11.87.241:20013/litv-longturn10/index.m3u8?proxy=true%3Fproxy%3Dtrue%E6%B0%91%E8%A6%96%E7%AC%AC%E4%B8%80%E5%8F%B0,http://141.11.87.241:20013/4gtv-4gtv003/index.m3u8?proxy=true
 大愛電視,http://141.11.87.241:20013/4gtv-live007/index.m3u8?proxy=true
 三立綜合合,http://141.11.87.241:20013/4gtv-live207/index.m3u8?proxy=true
@@ -345,12 +357,6 @@ CI 罪案偵查頻道,http://141.11.87.241:20013/4gtv-live027/index.m3u8?proxy=t
 ViuTVSix,http://php.jdshipin.com:8880/smt.php?id=viusix_twn
 Astro QJ,http://php.jdshipin.com:8880/smt.php?id=Quanjia
 Astro欢喜台,http://php.jdshipin.com:8880/smt.php?id=Huahee
-Astro QJ,https://cdn.qd.je/163189/qj
-Astro欢喜台,https://cdn.qd.je/163189/hxt
-黄金华剧台(WebVTT字幕),https://cdn.qd.je/163189/hjhjt
-My Cinema Europe,https://cdn.qd.je/163189/mce
-咪咕4K(限移动网络),http://r.jdshipin.com/ln4xk
-咪咕4K-2(限移动网络),http://r.jdshipin.com/Lqdwf
 切换EXO解码,1
 小米YU7,http://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000d0nrolvog65uva9acetg&ratio=720p&line=0
 小米SU7 ultra,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cv4jntnog65skq4ct860&ratio=720p&line=0
@@ -855,19 +861,6 @@ TVBS台劇台,http://4gtv.cnlive.club/channel/49342c47/index.m3u8?q=178263988583
 黄金华剧台粤,https://play.wenxiang.cn/live/08b0fcc45b136a36749c524a3a140efa.flv
 美亚电影台粤,https://play.wenxiang.cn/live/38a106306847b2579080984fab9ca49a.flv
 美亚电影台国,https://play.wenxiang.cn/live/d15690a84b5ad631f11228268ba8dca8.flv
-星河,https://ktpremium.world/live/LT1976F/A9177/492384.ts
-功夫,https://ktpremium.world/live/LT1976F/A9177/492390.ts
-RHK32,https://ktpremium.world/live/LT1976F/A9177/492402.ts
-now体育,https://ktpremium.world/live/LT1976F/A9177/958133.ts
-now体育1,https://ktpremium.world/live/LT1976F/A9177/958134.ts
-now体育2,https://ktpremium.world/live/LT1976F/A9177/958135.ts
-now体育3,https://ktpremium.world/live/LT1976F/A9177/958136.ts
-now体育4,https://ktpremium.world/live/LT1976F/A9177/958137.ts
-now体育5,https://ktpremium.world/live/LT1976F/A9177/958138.ts
-now体育6,https://ktpremium.world/live/LT1976F/A9177/958139.ts
-now体育7,https://ktpremium.world/live/LT1976F/A9177/958140.ts
-now体育8,https://ktpremium.world/live/LT1976F/A9177/958141.ts
-now体育9,https://ktpremium.world/live/LT1976F/A9177/958142.ts
 DHE HD,http://108.181.23.41:80/livehttpplay?channel_id=23504
 SEÑAL COLOMBIA HD,http://108.181.23.41:80/livehttpplay?channel_id=23510
 CARACOL HD COLOMBIA,http://108.181.23.41:80/livehttpplay?channel_id=23513
@@ -1429,11 +1422,6 @@ DV现场,http://cfss.cc/cdn/dy/gdtvdvxc.flv
 大湾区卫视高清,http://61.145.188.90:50055/udp/239.77.0.215:5146
 广东影视高清,http://61.145.188.90:50055/udp/239.77.0.217:5146
 广东少儿高清,http://61.145.188.90:50055/udp/239.77.0.250:5146
-深圳电视剧,http://111.221.137.234:44330/tsfile/live/1015_1.m3u8?key=%2A%2A%2A&playlive=0&authid=%2A%2A%2A
-深圳财经生活,http://111.221.137.234:44330/tsfile/live/1007_1.m3u8?key=%2A%2A%2A&playlive=0&authid=%2A%2A%2A
-Channel [V],http://111.221.137.234:44330/tsfile/live/0118_1.m3u8?key=%2A%2A%2A&playlive=0&authid=%2A%2A%2A
-星空卫视,http://111.221.137.234:44330/tsfile/live/0112_2.m3u8?key=%2A%2A%2A&playlive=0&authid=%2A%2A%2A
-CGTN,http://111.221.137.234:44330/tsfile/live/1012_1.m3u8?key=%2A%2A%2A&playlive=0&authid=%2A%2A%2A
 欢笑剧场4K,http://111.29.9.33:6610/000000001000/5000000002000009455/index.m3u8?channel-id=bestzb&Contentid=5000000002000009455&livemode=1&stbId=3
 游戏风云,http://111.29.9.33:6610/000000001000/5000000011000031114/index.m3u8?channel-id=bestzb&Contentid=5000000011000031114&livemode=1&stbId=3
 纯享4K,http://111.29.9.33:6610/000000001000/1000000004000011651/index.m3u8?channel-id=bestzb&Contentid=1000000004000011651&livemode=1&stbId=3
@@ -1673,57 +1661,6 @@ CGTN,http://116.147.111.62:7788/609017205
 熊猫频道9,http://116.147.111.62:7788/609169226
 熊猫频道10,http://116.147.111.62:7788/609169285
 中华特产,http://116.147.111.62:7788/959986618
-CGTN,http://www.ikerobot.com:1234/609017205
-体育休闲频道,http://www.ikerobot.com:1234/626064707
-公共新闻频道,http://www.ikerobot.com:1234/626064693
-财富天下,http://www.ikerobot.com:1234/956923159
-赛事最经典,http://www.ikerobot.com:1234/646596895
-体坛名栏汇,http://www.ikerobot.com:1234/629943305
-24小时城市联赛轮播台,http://www.ikerobot.com:1234/915512915
-建党105周年巡礼,http://www.ikerobot.com:1234/713600957
-和美乡途轮播台,http://www.ikerobot.com:1234/713591450
-南方影视,http://www.ikerobot.com:1234/614961829
-熊猫频道01高清,http://www.ikerobot.com:1234/609158151
-熊猫频道1,http://www.ikerobot.com:1234/608933610
-熊猫频道2,http://www.ikerobot.com:1234/608933640
-熊猫频道3,http://www.ikerobot.com:1234/608934619
-熊猫频道4,http://www.ikerobot.com:1234/608934721
-熊猫频道5,http://www.ikerobot.com:1234/608935104
-熊猫频道6,http://www.ikerobot.com:1234/608935797
-熊猫频道7,http://www.ikerobot.com:1234/609169286
-熊猫频道8,http://www.ikerobot.com:1234/609169287
-熊猫频道9,http://www.ikerobot.com:1234/609169226
-熊猫频道10,http://www.ikerobot.com:1234/609169285
-中华特产,http://www.ikerobot.com:1234/959986618
-CGTN,http://p.08top.top:8088/609017205
-体育休闲频道,http://p.08top.top:8088/626064707
-公共新闻频道,http://p.08top.top:8088/626064693
-财富天下,http://p.08top.top:8088/956923159
-建党105周年巡礼,http://p.08top.top:8088/713600957
-和美乡途轮播台,http://p.08top.top:8088/713591450
-南方影视,http://p.08top.top:8088/614961829
-CGTN,http://111.76.18.39:1234/609017205
-体育休闲频道,http://111.76.18.39:1234/626064707
-公共新闻频道,http://111.76.18.39:1234/626064693
-财富天下,http://111.76.18.39:1234/956923159
-赛事最经典,http://111.76.18.39:1234/646596895
-体坛名栏汇,http://111.76.18.39:1234/629943305
-24小时城市联赛轮播台,http://111.76.18.39:1234/915512915
-建党105周年巡礼,http://111.76.18.39:1234/713600957
-和美乡途轮播台,http://111.76.18.39:1234/713591450
-南方影视,http://111.76.18.39:1234/614961829
-熊猫频道01高清,http://111.76.18.39:1234/609158151
-熊猫频道1,http://111.76.18.39:1234/608933610
-熊猫频道2,http://111.76.18.39:1234/608933640
-熊猫频道3,http://111.76.18.39:1234/608934619
-熊猫频道4,http://111.76.18.39:1234/608934721
-熊猫频道5,http://111.76.18.39:1234/608935104
-熊猫频道6,http://111.76.18.39:1234/608935797
-熊猫频道7,http://111.76.18.39:1234/609169286
-熊猫频道8,http://111.76.18.39:1234/609169287
-熊猫频道9,http://111.76.18.39:1234/609169226
-熊猫频道10,http://111.76.18.39:1234/609169285
-中华特产,http://111.76.18.39:1234/959986618
 CGTN,http://mg.cttv.vip/609017205
 体育休闲频道,http://mg.cttv.vip/626064707
 公共新闻频道,http://mg.cttv.vip/626064693
@@ -1746,6 +1683,28 @@ CGTN,http://mg.cttv.vip/609017205
 熊猫频道9,http://mg.cttv.vip/609169226
 熊猫频道10,http://mg.cttv.vip/609169285
 中华特产,http://mg.cttv.vip/959986618
+CGTN,http://nas.51pan.cn:8089/609017205
+体育休闲频道,http://nas.51pan.cn:8089/626064707
+公共新闻频道,http://nas.51pan.cn:8089/626064693
+财富天下,http://nas.51pan.cn:8089/956923159
+赛事最经典,http://nas.51pan.cn:8089/646596895
+体坛名栏汇,http://nas.51pan.cn:8089/629943305
+24小时城市联赛轮播台,http://nas.51pan.cn:8089/915512915
+建党105周年巡礼,http://nas.51pan.cn:8089/713600957
+和美乡途轮播台,http://nas.51pan.cn:8089/713591450
+南方影视,http://nas.51pan.cn:8089/614961829
+熊猫频道01高清,http://nas.51pan.cn:8089/609158151
+熊猫频道1,http://nas.51pan.cn:8089/608933610
+熊猫频道2,http://nas.51pan.cn:8089/608933640
+熊猫频道3,http://nas.51pan.cn:8089/608934619
+熊猫频道4,http://nas.51pan.cn:8089/608934721
+熊猫频道5,http://nas.51pan.cn:8089/608935104
+熊猫频道6,http://nas.51pan.cn:8089/608935797
+熊猫频道7,http://nas.51pan.cn:8089/609169286
+熊猫频道8,http://nas.51pan.cn:8089/609169287
+熊猫频道9,http://nas.51pan.cn:8089/609169226
+熊猫频道10,http://nas.51pan.cn:8089/609169285
+中华特产,http://nas.51pan.cn:8089/959986618
 移动网专用,1
 咪咕直播1,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=toShengfen&mode=1
 咪咕直播2,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=toShengfen&mode=1
@@ -7496,6 +7455,21 @@ NTR的救贖-架乃由羅,https://t33.cdn2020.com/video/m3u8/2024/08/25/cf8dfb68
 少白潔MDSR-0005-4一路風流的新婚少,https://t33.cdn2020.com/video/m3u8/2024/10/04/485a4db7/index.m3u8
 少白潔第五章MDSR-0005-5 欣晴,https://t33.cdn2020.com/video/m3u8/2025/10/02/8e83b8e4/index.m3u8
 少白潔第六章MDSR-0005-6綠 艾悠,https://t33.cdn2020.com/video/m3u8/2025/10/18/64827eee/index.m3u8
+大愛電視,#EXTGRP:綜合
+客家電視台,#EXTGRP:綜合
+原住民族電視台,#EXTGRP:綜合
+LiveABC互動英語頻道,#EXTGRP:兒童與青少年
+達文西頻道,#EXTGRP:兒童與青少年
+Nick Jr. 兒童頻道,#EXTGRP:兒童與青少年
+尼克兒童頻道,#EXTGRP:兒童與青少年
+DreamWorks 夢工廠動畫,#EXTGRP:兒童與青少年
+TVBS,#EXTGRP:新聞財經
+豬哥亮歌廳秀,#EXTGRP:音樂綜藝
+KLT-靖天國際台,#EXTGRP:音樂綜藝
+Nice TV 靖天歡樂台,#EXTGRP:綜合
+大愛二台,#EXTGRP:綜合
+TVBS綜藝台,#EXTGRP:綜合
+TVBS台劇台,#EXTGRP:戲劇、電影與紀錄片
 软件作者,http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8
 资源宝藏库,http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8
 制作维护,http://bobohome.ignorelist.com:20247/fengshows?id=3.m3u8
@@ -10006,3 +9980,29 @@ IPTV 4K超清,http://111.199.198.198:4022/rtp/239.3.1.249:8001
 汕头1,http://hello.ejoydom.com:9999/udp/239.253.43.45:5146
 汕头1,http://pr.19760929.xyz:9688/rtp/239.253.43.45:5146
 汕头2,http://hello.ejoydom.com:9999/udp/239.253.43.46:5146
+汕头2,http://pr.19760929.xyz:9688/rtp/239.253.43.46:5146
+敦煌频道,https://play.kankanlive.com/live/1698234808271963.m3u8
+白银文教,https://play.kankanlive.com/live/1720408280309109.m3u8
+定西文旅,https://play.kankanlive.com/live/1707482307440963.m3u8
+陇南公共,https://play.kankanlive.com/live/1709171893138901.m3u8
+陇南综合,https://play.kankanlive.com/live/1709171819929902.m3u8
+平凉综合,https://play.kankanlive.com/live/1694661314645984.m3u8
+庆阳综合,https://play.kankanlive.com/live/1700643403411931.m3u8
+庆阳文旅,https://play.kankanlive.com/live/1700643349159930.m3u8
+张掖综合,http://play.kankanlive.com/live/1720583434627241.m3u8
+张掖农旅,http://play.kankanlive.com/live/1720583009200246.m3u8
+甘州综合,https://play.kankanlive.com/live/1656898082155960.m3u8
+清水综合,https://play.kankanlive.com/live/1724065906329286.m3u8
+渭源综合,https://play.kankanlive.com/live/1701943385631927.m3u8
+庄浪综合,https://play.kankanlive.com/live/1687654127961989.m3u8
+会宁综合,https://play.kankanlive.com/live/1721783897283302.m3u8
+武威综合,https://play.kankanlive.com/live/1693539781636986.m3u8
+酒泉文旅,https://play.kankanlive.com/live/1702036477193973.m3u8
+敦煌频道,https://play.kankanlive.com/live/1698234808271963.m3u8
+白银文教,https://play.kankanlive.com/live/1720408280309109.m3u8
+定西文旅,https://play.kankanlive.com/live/1707482307440963.m3u8
+陇南公共,https://play.kankanlive.com/live/1709171893138901.m3u8
+陇南综合,https://play.kankanlive.com/live/1709171819929902.m3u8
+平凉综合,https://play.kankanlive.com/live/1694661314645984.m3u8
+庆阳综合,https://play.kankanlive.com/live/1700643403411931.m3u8
+庆阳文旅,https://play.kankanlive.com/live/1700643349159930.m3u8
