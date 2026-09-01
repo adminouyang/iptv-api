@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv date="20260901012121 +0800">
+<tv date="20260901085651 +0800">
 	<channel id="CCTV1">
 		<display-name lang="zh">CCTV1</display-name>
 	</channel>
@@ -31317,21 +31317,6 @@
 	<channel id="山西文体生活">
 		<display-name lang="zh">山西文体生活</display-name>
 	</channel>
-	<programme channel="山西文体生活" start="20260831003000 +0800" stop="20260831050000 +0800">
-		<title lang="zh">子夜剧场我的铁血金戈梦（2632）</title>
-	</programme>
-	<programme channel="山西文体生活" start="20260831050000 +0800" stop="20260831060500 +0800">
-		<title lang="zh">王牌高手重播</title>
-	</programme>
-	<programme channel="山西文体生活" start="20260831060500 +0800" stop="20260831063300 +0800">
-		<title lang="zh">健康朋友圈</title>
-	</programme>
-	<programme channel="山西文体生活" start="20260831063300 +0800" stop="20260831071000 +0800">
-		<title lang="zh">我的选择</title>
-	</programme>
-	<programme channel="山西文体生活" start="20260831071000 +0800" stop="20260831083800 +0800">
-		<title lang="zh">百家戏苑</title>
-	</programme>
 	<programme channel="山西文体生活" start="20260831083800 +0800" stop="20260831094300 +0800">
 		<title lang="zh">黎明前的抉择（23）</title>
 	</programme>
@@ -31452,45 +31437,6 @@
 	<channel id="山西经济与科技">
 		<display-name lang="zh">山西经济与科技</display-name>
 	</channel>
-	<programme channel="山西经济与科技" start="20260831011500 +0800" stop="20260831015800 +0800">
-		<title lang="zh">战狼战狼（37集）</title>
-	</programme>
-	<programme channel="山西经济与科技" start="20260831015800 +0800" stop="20260831024100 +0800">
-		<title lang="zh">战狼战狼（38集）</title>
-	</programme>
-	<programme channel="山西经济与科技" start="20260831024100 +0800" stop="20260831032600 +0800">
-		<title lang="zh">战狼战狼（39集）</title>
-	</programme>
-	<programme channel="山西经济与科技" start="20260831032600 +0800" stop="20260831035400 +0800">
-		<title lang="zh">经济30分（重播）</title>
-	</programme>
-	<programme channel="山西经济与科技" start="20260831035400 +0800" stop="20260831041400 +0800">
-		<title lang="zh">经济30分之看天下（重播）</title>
-	</programme>
-	<programme channel="山西经济与科技" start="20260831041400 +0800" stop="20260831052500 +0800">
-		<title lang="zh">生命缘</title>
-	</programme>
-	<programme channel="山西经济与科技" start="20260831052500 +0800" stop="20260831055300 +0800">
-		<title lang="zh">经济30分（重播）</title>
-	</programme>
-	<programme channel="山西经济与科技" start="20260831055300 +0800" stop="20260831061700 +0800">
-		<title lang="zh">经济30分之看天下（重播）</title>
-	</programme>
-	<programme channel="山西经济与科技" start="20260831061700 +0800" stop="20260831063700 +0800">
-		<title lang="zh">潮科技（重播）</title>
-	</programme>
-	<programme channel="山西经济与科技" start="20260831063700 +0800" stop="20260831072100 +0800">
-		<title lang="zh">生命缘</title>
-	</programme>
-	<programme channel="山西经济与科技" start="20260831072100 +0800" stop="20260831074500 +0800">
-		<title lang="zh">一起健康吧（重播）</title>
-	</programme>
-	<programme channel="山西经济与科技" start="20260831074500 +0800" stop="20260831081500 +0800">
-		<title lang="zh">炮神（29集）</title>
-	</programme>
-	<programme channel="山西经济与科技" start="20260831081500 +0800" stop="20260831084100 +0800">
-		<title lang="zh">专题</title>
-	</programme>
 	<programme channel="山西经济与科技" start="20260831084100 +0800" stop="20260831091100 +0800">
 		<title lang="zh">炮神（30集）</title>
 	</programme>
@@ -31719,39 +31665,6 @@
 	<channel id="山西社会与法治">
 		<display-name lang="zh">山西社会与法治</display-name>
 	</channel>
-	<programme channel="山西社会与法治" start="20260831011500 +0800" stop="20260831015200 +0800">
-		<title lang="zh">星汉灿烂(24)</title>
-	</programme>
-	<programme channel="山西社会与法治" start="20260831015200 +0800" stop="20260831022900 +0800">
-		<title lang="zh">星汉灿烂(25)</title>
-	</programme>
-	<programme channel="山西社会与法治" start="20260831022900 +0800" stop="20260831030500 +0800">
-		<title lang="zh">星汉灿烂(26)</title>
-	</programme>
-	<programme channel="山西社会与法治" start="20260831030500 +0800" stop="20260831034200 +0800">
-		<title lang="zh">星汉灿烂(27)</title>
-	</programme>
-	<programme channel="山西社会与法治" start="20260831034200 +0800" stop="20260831041700 +0800">
-		<title lang="zh">星汉灿烂(28)</title>
-	</programme>
-	<programme channel="山西社会与法治" start="20260831041700 +0800" stop="20260831052400 +0800">
-		<title lang="zh">星汉灿烂(29)</title>
-	</programme>
-	<programme channel="山西社会与法治" start="20260831052400 +0800" stop="20260831054800 +0800">
-		<title lang="zh">法治剧场(重播)</title>
-	</programme>
-	<programme channel="山西社会与法治" start="20260831054800 +0800" stop="20260831063400 +0800">
-		<title lang="zh">兵临城下(22)</title>
-	</programme>
-	<programme channel="山西社会与法治" start="20260831063400 +0800" stop="20260831071500 +0800">
-		<title lang="zh">兵临城下(23)</title>
-	</programme>
-	<programme channel="山西社会与法治" start="20260831071500 +0800" stop="20260831075600 +0800">
-		<title lang="zh">兵临城下(24)</title>
-	</programme>
-	<programme channel="山西社会与法治" start="20260831075600 +0800" stop="20260831082400 +0800">
-		<title lang="zh">生活服务</title>
-	</programme>
 	<programme channel="山西社会与法治" start="20260831082400 +0800" stop="20260831090500 +0800">
 		<title lang="zh">兵临城下(25)</title>
 	</programme>
@@ -31959,36 +31872,6 @@
 	<channel id="山西影视">
 		<display-name lang="zh">山西影视</display-name>
 	</channel>
-	<programme channel="山西影视" start="20260831005500 +0800" stop="20260831013600 +0800">
-		<title lang="zh">巨浪（09）</title>
-	</programme>
-	<programme channel="山西影视" start="20260831013600 +0800" stop="20260831021700 +0800">
-		<title lang="zh">女人的抗战（26）</title>
-	</programme>
-	<programme channel="山西影视" start="20260831021700 +0800" stop="20260831025900 +0800">
-		<title lang="zh">女人的抗战（27）</title>
-	</programme>
-	<programme channel="山西影视" start="20260831025900 +0800" stop="20260831034000 +0800">
-		<title lang="zh">女人的抗战（28）</title>
-	</programme>
-	<programme channel="山西影视" start="20260831034000 +0800" stop="20260831042100 +0800">
-		<title lang="zh">女人的抗战（29）</title>
-	</programme>
-	<programme channel="山西影视" start="20260831042100 +0800" stop="20260831045200 +0800">
-		<title lang="zh">女人的抗战（30）</title>
-	</programme>
-	<programme channel="山西影视" start="20260831045200 +0800" stop="20260831053500 +0800">
-		<title lang="zh">国家孩子（37）</title>
-	</programme>
-	<programme channel="山西影视" start="20260831053500 +0800" stop="20260831061900 +0800">
-		<title lang="zh">国家孩子（38）</title>
-	</programme>
-	<programme channel="山西影视" start="20260831061900 +0800" stop="20260831074200 +0800">
-		<title lang="zh">国家孩子（39）</title>
-	</programme>
-	<programme channel="山西影视" start="20260831074200 +0800" stop="20260831083800 +0800">
-		<title lang="zh">傻儿传奇之抗战到底（40）</title>
-	</programme>
 	<programme channel="山西影视" start="20260831083800 +0800" stop="20260831093800 +0800">
 		<title lang="zh">傻儿传奇之抗战到底（41）</title>
 	</programme>
@@ -32118,39 +32001,6 @@
 	<channel id="黄河电视台">
 		<display-name lang="zh">黄河电视台</display-name>
 	</channel>
-	<programme channel="黄河电视台" start="20260831010600 +0800" stop="20260831014600 +0800">
-		<title lang="zh">游击兵工厂(10)</title>
-	</programme>
-	<programme channel="黄河电视台" start="20260831014600 +0800" stop="20260831022600 +0800">
-		<title lang="zh">游击兵工厂(11)</title>
-	</programme>
-	<programme channel="黄河电视台" start="20260831022600 +0800" stop="20260831030600 +0800">
-		<title lang="zh">游击兵工厂(12)</title>
-	</programme>
-	<programme channel="黄河电视台" start="20260831030600 +0800" stop="20260831034700 +0800">
-		<title lang="zh">游击兵工厂(13)</title>
-	</programme>
-	<programme channel="黄河电视台" start="20260831034700 +0800" stop="20260831042700 +0800">
-		<title lang="zh">游击兵工厂(14)</title>
-	</programme>
-	<programme channel="黄河电视台" start="20260831042700 +0800" stop="20260831050900 +0800">
-		<title lang="zh">游击兵工厂(15)</title>
-	</programme>
-	<programme channel="黄河电视台" start="20260831050900 +0800" stop="20260831055500 +0800">
-		<title lang="zh">沉默的荣耀(23)</title>
-	</programme>
-	<programme channel="黄河电视台" start="20260831055500 +0800" stop="20260831063600 +0800">
-		<title lang="zh">沉默的荣耀(24)</title>
-	</programme>
-	<programme channel="黄河电视台" start="20260831063600 +0800" stop="20260831072300 +0800">
-		<title lang="zh">沉默的荣耀(25)</title>
-	</programme>
-	<programme channel="黄河电视台" start="20260831072300 +0800" stop="20260831081500 +0800">
-		<title lang="zh">沉默的荣耀(26)</title>
-	</programme>
-	<programme channel="黄河电视台" start="20260831081500 +0800" stop="20260831084200 +0800">
-		<title lang="zh">天下寻宝</title>
-	</programme>
 	<programme channel="黄河电视台" start="20260831084200 +0800" stop="20260831094800 +0800">
 		<title lang="zh">飞哥大英雄(30)</title>
 	</programme>
