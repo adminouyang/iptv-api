@@ -19,7 +19,7 @@ http://tv123.cc.cd/tv.m3u
 https://cdn.qd.je/live.m3u
 https://cnb.cool/fgvss/dszb1/-/git/raw/main/zbtv30.txt
 https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt
-
+https://raw.githubusercontent.com/qingtian6325-lang/IPTV/main/mytv.m3u
 # https://feer-cdn-bp.xpnb.qzz.io/xnkl.txt
 
 [WHITELIST]
