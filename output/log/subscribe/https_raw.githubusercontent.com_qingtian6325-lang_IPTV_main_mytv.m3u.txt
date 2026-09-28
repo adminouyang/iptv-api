@@ -337,10 +337,10 @@ https://d1sq2slp9afh7o.cloudfront.net/smil:roll/chunklist_b2596000_slENG.m3u8
 https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist_b2596000_slENG.m3u8
 #EXTINF:-1 tvg-name="射雕英雄传D" tvg-logo="https://logo.catvod.com/射雕英雄传D.png" group-title="juli-卫视C",射雕英雄传D
 http://129.211.14.102:22223/1354210357
-#EXTINF:-1 tvg-name="情满四合院D" tvg-logo="https://logo.catvod.com/情满四合院D.png" group-title="juli-卫视C",情满四合院D
-http://129.211.14.102:22223/1382735541
 #EXTINF:-1 tvg-name="天龙八部D" tvg-logo="https://logo.catvod.com/天龙八部D.png" group-title="juli-卫视C",天龙八部D
 http://129.211.14.102:22223/1351814644
+#EXTINF:-1 tvg-name="封神榜D" tvg-logo="https://logo.catvod.com/封神榜D.png" group-title="juli-卫视C",封神榜D
+http://129.211.14.102:22223/1353426319
 #EXTINF:-1 tvg-name="新百娘子传奇D" tvg-logo="https://logo.catvod.com/新百娘子传奇D.png" group-title="juli-卫视C",新百娘子传奇D
 http://129.211.14.102:22223/1354930969
 #EXTINF:-1 tvg-name="神雕侠侣D" tvg-logo="https://logo.catvod.com/神雕侠侣D.png" group-title="juli-卫视C",神雕侠侣D
@@ -369,12 +369,12 @@ http://104.152.209.49:8181/720p/cctv6.m3u8
 http://104.152.209.49:8181/720p/cctv7.m3u8
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://logo.catvod.com/CCTV8.png" group-title="juli-央卫D",CCTV-8电视剧D
 http://104.152.209.49:8181/720p/cctv8.m3u8
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://logo.catvod.com/CCTV9.png" group-title="juli-央卫D",CCTV-9纪录D
-http://104.152.209.49:8181/720p/cctv9.m3u8
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://logo.catvod.com/CCTV10.png" group-title="juli-央卫D",CCTV-10科教D
 http://104.152.209.49:8181/720p/cctv10.m3u8
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://logo.catvod.com/CCTV11.png" group-title="juli-央卫D",CCTV-11戏曲D
 http://104.152.209.49:8181/720p/cctv11.m3u8
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://logo.catvod.com/CCTV12.png" group-title="juli-央卫D",CCTV-12社会与法D
+http://104.152.209.49:8181/720p/cctv12.m3u8
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://logo.catvod.com/CCTV13.png" group-title="juli-央卫D",CCTV-13新闻D
 http://104.152.209.49:8181/720p/cctv13.m3u8
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://logo.catvod.com/CCTV14.png" group-title="juli-央卫D",CCTV-14少儿D
@@ -393,10 +393,10 @@ http://104.152.209.49:8181/720p/cctv4k.m3u8
 http://104.152.209.49:8181/720p/cctv8k.m3u8
 #EXTINF:-1 tvg-name="CCTV-第一剧场D" tvg-logo="https://logo.catvod.com/CCTV-第一剧场D.png" group-title="juli-央卫D",CCTV-第一剧场D
 http://104.152.209.49:8181/720p/dyjc.m3u8
-#EXTINF:-1 tvg-name="CCTV-风云剧场D" tvg-logo="https://logo.catvod.com/CCTV-风云剧场D.png" group-title="juli-央卫D",CCTV-风云剧场D
-http://104.152.209.49:8181/720p/fyjc.m3u8
 #EXTINF:-1 tvg-name="CCTV-怀旧剧场D" tvg-logo="https://logo.catvod.com/CCTV-怀旧剧场D.png" group-title="juli-央卫D",CCTV-怀旧剧场D
 http://104.152.209.49:8181/720p/hjjc.m3u8
+#EXTINF:-1 tvg-name="CCTV-兵器科技D" tvg-logo="https://logo.catvod.com/CCTV-兵器科技D.png" group-title="juli-央卫D",CCTV-兵器科技D
+http://104.152.209.49:8181/720p/gfjs.m3u8
 #EXTINF:-1 tvg-name="CCTV-女性时尚D" tvg-logo="https://logo.catvod.com/CCTV-女性时尚D.png" group-title="juli-央卫D",CCTV-女性时尚D
 http://104.152.209.49:8181/720p/nxss.m3u8
 #EXTINF:-1 tvg-name="CCTV-世界地理D" tvg-logo="https://logo.catvod.com/CCTV-世界地理D.png" group-title="juli-央卫D",CCTV-世界地理D
@@ -559,8 +559,6 @@ https://cdn.qd.je/163189/hxt
 https://cdn.qd.je/163189/iqiyi
 #EXTINF:-1 tvg-name="天映马来西亚" group-title="Mytv-mytv",天映频道
 https://cdn.qd.je/163189/typd2
-#EXTINF:-1 tvg-name="天映经典" group-title="Mytv-mytv",天映经典
-https://cdn.qd.je/163189/ccm2
 #EXTINF:-1 tvg-name="TVB星河" group-title="Mytv-mytv",TVB星河
 https://cdn.qd.je/163189/tvbxh2
 #EXTINF:-1 tvg-name="千禧經典台" group-title="Mytv-mytv",千禧经典台
